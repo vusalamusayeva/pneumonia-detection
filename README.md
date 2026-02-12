@@ -99,9 +99,7 @@ This project does not include a license by default. If you want to use, share, o
 This project is **for research and educational purposes only**. It is **not a medical diagnostic tool**. Always consult a medical professional for diagnosis.
 
 ```
-<img width="779" height="780" alt="Screenshot 2026-02-02 182051" src="https://github.com/user-attachments/assets/92cfe6e6-e71c-422e-a29b-e2ebff14706f" />
 
 ---
-<img width="735" height="777" alt="Screenshot 2026-02-01 174633" src="https://github.com/user-attachments/assets/09d4b2ab-f896-405b-91d8-d6ec8633a6a1" />
 
 ```
