@@ -5,6 +5,8 @@ This project implements a **deep learning model** to detect **pneumonia** from c
 
 ---
 
+![Demo](demo.png)
+
 ## 📌 Project Goal
 
 The main goal of this project is to create a model that classifies **normal** and **pneumonia** conditions using a **Convolutional Neural Network (CNN)**. The model can automatically analyze X-ray images and identify the presence of pneumonia, which can serve as a supportive tool in medical diagnostics.
