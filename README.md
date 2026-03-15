@@ -5,7 +5,6 @@ This project implements a **deep learning model** to detect **pneumonia** from c
 
 ---
 
-![Demo](demo.png)
 
 ## 📌 Project Goal
 
@@ -18,6 +17,9 @@ The main goal of this project is to create a model that classifies **normal** an
 The repository contains the following files:
 
 ```
+
+![Demo](demo.png)
+
 
 📦 pneumonia-detection
 ┣ 📜 Pneumonia_detection.ipynb
